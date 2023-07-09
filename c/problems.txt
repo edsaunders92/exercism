@@ -1,4 +1,3 @@
-difference-of-squares
 square-root
 grade-school
 binary-search
