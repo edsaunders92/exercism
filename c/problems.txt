@@ -1,4 +1,3 @@
-hamming
 grains
 difference-of-squares
 square-root
