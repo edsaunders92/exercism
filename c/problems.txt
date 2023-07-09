@@ -1,4 +1,3 @@
-grains
 difference-of-squares
 square-root
 grade-school
