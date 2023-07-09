@@ -1,4 +1,3 @@
-square-root
 grade-school
 binary-search
 rational-numbers
