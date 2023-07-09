@@ -1,0 +1,12 @@
+/Users/edsaunders/.stack/programs/aarch64-osx/ghc-9.2.7/lib/ghc-9.2.7/lib/aarch64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/edsaunders/Personal/exercism/haskell/hello-world/.stack-work/dist/aarch64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_hello_world.hs
+: hash: 57d0d50ad2d4173a274929139d4c4755056fb269569b25e103555ff09ae77ee3
+? /Users/edsaunders/Personal/exercism/haskell/hello-world/.stack-work/dist/aarch64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: f3c47b8f14eb86ab74eca9feaedf4f99169c1e6c73ae475925e0111db1ef063b
+/Users/edsaunders/Personal/exercism/haskell/hello-world/hello-world.cabal:
+  hash: aa837f2c5cca4a702275fd908863f22682a79dea79624833985041f7b018f1e3
+/Users/edsaunders/Personal/exercism/haskell/hello-world/package.yaml:
+  hash: 160a1a88b7a5bd0f6f1ffd3e24f56cbba5e4d4fbd7f76ea73d649199ca9d76a5
+/Users/edsaunders/Personal/exercism/haskell/hello-world/test/Tests.hs:
+  hash: e3c9948060203a794b444e4596c90a63085f60817a31e9d626c9a3191142e0e5

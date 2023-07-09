@@ -1,0 +1,12 @@
+/Users/edsaunders/.stack/programs/aarch64-osx/ghc-9.2.7/lib/ghc-9.2.7/lib/aarch64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/edsaunders/Personal/exercism/haskell/space-age/.stack-work/dist/aarch64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_space_age.hs
+: hash: 376084109c71f24257d9293a56095a3940ccc5b0950b6e938191bb57a73c609e
+? /Users/edsaunders/Personal/exercism/haskell/space-age/.stack-work/dist/aarch64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: fc226c0ff03d013672d186ef63b9eabf62aae344a84fc0593b26e61ce0bea726
+/Users/edsaunders/Personal/exercism/haskell/space-age/package.yaml:
+  hash: d8dbdf4247d1f13fc1acdd3b68d702ceb46403e97b81ac10decfe16dc11cdfee
+/Users/edsaunders/Personal/exercism/haskell/space-age/space-age.cabal:
+  hash: b7b9ebde7b5375b50f6c39425ecfe508537fd0486cdcd46ca9b7d36eeed8b042
+/Users/edsaunders/Personal/exercism/haskell/space-age/test/Tests.hs:
+  hash: 51cc27579d67c36f9fc8d3d5bc769ebd921ea607200bf44335d912bf9465ae99
