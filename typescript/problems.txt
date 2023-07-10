@@ -1,4 +1,3 @@
-pangram
 bob
 matrix
 robot-name
