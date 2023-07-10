@@ -1,4 +1,3 @@
-bob
 matrix
 robot-name
 grade-school

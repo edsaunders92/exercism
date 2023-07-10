@@ -9,3 +9,7 @@ cd $problem
 
 touch yarn.lock
 yarn install
+
+sed -i '' 's/xit/it/' $problem.test.ts
+
+vim $problem.ts -c 'vsplit README.txt' -c "split $problem.test.ts" -c 'wincmd l' -c 'term yarn test --watch'
