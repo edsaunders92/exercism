@@ -1,7 +1,3 @@
-resistor-color
-rna-transcription
-space-age
-dnd-character
 darts
 pangram
 bob
