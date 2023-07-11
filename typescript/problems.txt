@@ -1,4 +1,3 @@
-robot-name
 grade-school
 clock
 secret-handshake
