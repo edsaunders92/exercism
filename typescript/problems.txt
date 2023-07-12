@@ -1,4 +1,3 @@
-clock
 secret-handshake
 binary-search
 linked-list
