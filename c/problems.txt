@@ -1,5 +1,3 @@
-rational-numbers
-circular-buffer
 list-ops
 reverse-string
 resistor-color
